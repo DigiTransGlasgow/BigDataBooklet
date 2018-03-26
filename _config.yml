@@ -11,11 +11,10 @@ collections:
                         values:
                                 layout: default
 defaults:
-          scope:
-                path: ""
-                type: contributions
-
-          values:
-                layout: default
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
 
 theme: jekyll-theme-minimal
