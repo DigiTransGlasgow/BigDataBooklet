@@ -6,12 +6,15 @@ show_downloads: true
 collections:
         contributions:
                 output: true
+                defaults:
+                        values:
+                                layout: default
 defaults:
           scope:
                 path: ""
                 type: contributions
 
           values:
-                layout: "default"
+                layout: default
 
 theme: jekyll-theme-minimal
