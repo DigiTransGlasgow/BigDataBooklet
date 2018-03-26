@@ -9,7 +9,6 @@ collections:
         contributions:
                 output: true
 defaults:
-        -
           scope:
                 path: ""
                 type: contributions
