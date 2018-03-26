@@ -2,6 +2,7 @@ name:         Big Data in the Arts and Humanities
 tagline:      Some Arts and Humanities Research Council Projects
 baseurl: "/BigDataBooklet"
 show_downloads: true
+layout: default
 
 collections:
         contributions:
