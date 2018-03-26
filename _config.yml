@@ -12,6 +12,6 @@ defaults:
                 type: contributions
 
           values:
-                layout: default
+                layout: "default"
 
 theme: jekyll-theme-minimal
